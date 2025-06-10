@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Rastogi</h1>
-<h3 align="center">A passionate BAckend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan8739&label=Profile%20views&color=0e75b6&style=flat" alt="aryan8739" /> </p>
+<h3 align="center">A passionate Backend developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan8739&label=Itne+Log+aa+Chuke+hain!&color=blueviolet" alt="aryan8739" /> </p>
 
 - 🌱 I’m currently learning **Java Script**
 - 💬 Ask me about **Linux**
