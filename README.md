@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan8739&label=Itne+Log+aa+Chuke+hain!&color=blueviolet" alt="aryan8739" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **Vanilla Web Technologies(javascript nd php**
 - 💬 Ask me about **Linux**
 - 📫 How to reach me **aryan.rastogi.20nov@gmail.com**
 <!-- - ⚡ Fun fact **Obsession with music made me an amateur beatboxer** -->
