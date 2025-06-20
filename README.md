@@ -1,11 +1,11 @@
-<h1 align="center">Hello Hello , I'm Aryan Rastogi</h1>
+<h1 align="center">Aryan Rastogi</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">Backend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan8739&label=Itne+Log+aa+Chuke+hain!&color=blueviolet" alt="aryan8739" /> </p>
 
-- 🌱 I’m currently learning **Vanilla Web Technologies(javascript nd php)**
-- 💬 Ask me about **Linux**
-- 📫 How to reach me **aryan.rastogi.20nov@gmail.com**
+- currently learning **Vanilla Web Technologies(javascript nd php)**
+- Ask me about **Linux**
+- Mail me at **aryan.rastogi.20nov@gmail.com**
 <!-- - ⚡ Fun fact **Obsession with music made me an amateur beatboxer** -->
 ###
 <!--<img src="https://github-readme-stats.vercel.app/api?username=aryan8739&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
