@@ -12,7 +12,7 @@
 [comment]: <> (in  the output file unless you use it in)-->
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan8739&theme=dracula" height="150" alt="aryan8739" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan8739&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan8739&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
