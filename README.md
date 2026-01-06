@@ -1,7 +1,7 @@
 <h1 align="center">Aryan Rastogi</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 <h3 align="center">Backend developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan8739&label=Itne+Log+aa+Chuke+hain!&color=blueviolet" alt="aryan8739" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan8739&label=Profile+Visits&color=blueviolet" alt="aryan8739" /> </p>
 
 - currently learning **Vanilla Web Technologies(javascript nd php)**
 - Ask me about **Linux**
