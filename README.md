@@ -3,8 +3,8 @@
 <h3 align="center">Backend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan8739&label=Profile+Visits&color=blueviolet" alt="aryan8739" /> </p>
 
-- currently learning **Vanilla Web Technologies(javascript nd php)**
-- Ask me about **Linux**
+- doing **Web Dev** and trying **Data Structures**
+- Ask me about **Linux** not about whats going **wrong**
 - Mail me at **aryan.rastogi.20nov@gmail.com**
 <!-- - ⚡ Fun fact **Obsession with music made me an amateur beatboxer** -->
 ###
