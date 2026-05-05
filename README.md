@@ -18,8 +18,8 @@ I enjoy working on systems where performance, simplicity, and interaction matter
 
 | Project | What it does | Stack | Status |
 |--------|-------------|-------|--------|
-|  **[streamX](https://streamxvid.vercel.app/)** | community-driven video-sharing platform with social features, playlists, and creator dashboard | MERN · Cloudinary · JWT · Tailwind · Framer Motion | 🟢 Active |
-|  **[whisperX](https://whisperxchat.vercel.app)** | Anonymous real-time campus chat with ephemeral messaging and cyberpunk UI | React · Supabase · Tailwind · WebSockets · RLS| 🟡 In Progress |
+|  **[streamX](https://streamxvid.vercel.app/)** | community-driven video-sharing platform with social features, playlists, and creator dashboard | MERN · Cloudinary · JWT · Tailwind · Framer Motion | 🟢 Active/Live |
+|  **[whisperX](https://whisperxchat.vercel.app)** | Anonymous real-time campus chat with ephemeral messaging and cyberpunk UI | React · Supabase · Tailwind · WebSockets · RLS| 🟢  Active/Live development  |
 |  **[DripSense](https://github.com/Aryan8739/DripSense)** |  | | 🔵 Early Stage |
 
 
